@@ -1,3 +1,4 @@
 from pyspark.sql import spark
 df=spark.read.sql("select * from product)
 df=df.dropduplicates()
+df=df.withcolumnRenamed("New",col("Old"))
