@@ -1,0 +1,2 @@
+from pyspark.sql import spark
+df=spark.read.sql("select * from product)
