@@ -21,3 +21,6 @@ Insert/modify ->Add->Commit->Push
 
 PS C:\$Noorudeen$\Git Practice\KRI dev> git remote add origin https://github.com/NoorudeenBI/KRI-dev.git
 PS C:\$Noorudeen$\Git Practice\KRI dev> git branch
+
+
+git branch -M main   -----to change from master to main
