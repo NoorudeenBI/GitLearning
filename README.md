@@ -12,3 +12,8 @@ git add "file name"
 git commit -m "Comments"
 git commit -am "Comments"--commits all changes 
 git push origin main
+
+
+Git LifeCycle
+
+Insert ->Add->Commit->Push
