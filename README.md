@@ -18,9 +18,23 @@ Git LifeCycle
 
 Insert/modify ->Add->Commit->Push
 
+move to new repository
 
 PS C:\$Noorudeen$\Git Practice\KRI dev> git remote add origin https://github.com/NoorudeenBI/KRI-dev.git
 PS C:\$Noorudeen$\Git Practice\KRI dev> git branch
+
+Git Branching
+
+Create New Branch as per the team requirement
+
+git branch -a
+git checkout ccm ---- from main to created branch
+git checkout main -- return to main branch
+git diff ccm --- to comapre the difference
+git merge ccm -- to merge the changes with main branch
+
+
+
 
 
 git branch -M main   -----to change from master to main
