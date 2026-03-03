@@ -34,7 +34,14 @@ git diff ccm --- to comapre the difference
 git merge ccm -- to merge the changes with main branch
 
 
-
-
-
 git branch -M main   -----to change from master to main
+
+
+GIt Revert
+
+git log
+git log --oneline
+git revert with id
+git push
+git reset
+git reflog
